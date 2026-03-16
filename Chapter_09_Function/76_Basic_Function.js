@@ -3,5 +3,5 @@ function greetByname(name){
     
 }
 
-greetByName("Pramod");
-greetByName("Amar");
+greetByname("Pramod");
+greetByname("Amar");
